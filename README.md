@@ -1,12 +1,14 @@
-# **Comandos Git**
+# **Comandos de Git**
 
-## Temario:
+## [Temario](#volver-al-menu)
 
-### [Como inicializar Git en un directorio local](#inicializar-git)
+### [Inicializar Git en un directorio local](#inicializar-git-en-un-directorio-local)
 
-### [Como cambiar de la rama master a la rama main](#cambiar-a-la-rama-main)
+### [Cambiar la rama master por main]()
 
-### [Como obtener la ayuda de cierto comando](#como-obtener-la-ayuda-de-cierto-comando)
+### [Comandos de ayuda]()
+
+---
 
 ## Inicializar Git
 
@@ -22,18 +24,18 @@
 >
 > code .
 
-##### [Volver al temario](#temario)
+#### [volver al menu](#temario)
 
-## Cambiar a la rama main
+## Rama master por main
 
 > git branch -M main
 
-##### [Volver al temario](#temario)
+#### [volver al menu](#temario)
 
-## Obtener ayuda de comandos
+## Comando de ayuda
 
 > git help comando
-
+>
 > git comando -h
 
-##### [Volver al temario](#temario)
+#### [volver al menu](#temario)
